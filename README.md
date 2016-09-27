@@ -1,6 +1,6 @@
 # WorkoutBuddies
 
-Websit URL - http://localhost:3000/
+[Websit URL](http://localhost:3000/)
 
 Steps to Run:
 
